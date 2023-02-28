@@ -379,7 +379,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "HackSoc Workshop.dsn",
+      "specctra_dsn": "routing/HackSoc Workshop.dsn",
       "step": "",
       "vrml": ""
     },
