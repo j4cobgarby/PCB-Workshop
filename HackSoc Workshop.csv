@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC
+"1u","C1","Capacitor_SMD:C_0603_1608Metric",""
+"10u","C2","Capacitor_SMD:C_0603_1608Metric",""
+"22pF","C3,C4","Capacitor_SMD:C_0603_1608Metric",""
+"LED","D1,D2,D3,D4,D5,D6,D7,D8","LED_SMD:LED_0805_2012Metric",""
+"USB_B_Micro","J1","Connector_USB:USB_Micro-B_Molex-105017-0001",""
+"ISP","J2","Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical",""
+"10k","R1,R4","Resistor_SMD:R_0603_1608Metric",""
+"22","R2,R3","Resistor_SMD:R_0603_1608Metric",""
+"270","R5,R6,R7,R8,R9,R10,R11,R12","Resistor_SMD:R_0603_1608Metric",""
+"SW_Push","SW1,SW2,SW3,SW4,SW5,SW6,SW7","Button_Switch_THT:SW_PUSH_6mm_H8.5mm",""
+"ATmega32U4-M","U1","Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm",""
+"12MHz","Y1","Crystal:Crystal_SMD_7050-4Pin_7.0x5.0mm",""
